@@ -1,5 +1,5 @@
 # CRUD operation of Products
-
+## Screenshots of UI:
 `Register`
 
 ![1](https://github.com/Zayed-Rahat/crudProductLaravel/blob/main/UI_SS/Register.png)
